@@ -1,4 +1,4 @@
-# Exploring Oracle Cloud Infrastructure Database Management for Oracle Database@Azure
+# Explore Oracle Cloud Infrastructure Database Management for Oracle Database@Azure
 
 ## Introduction
 

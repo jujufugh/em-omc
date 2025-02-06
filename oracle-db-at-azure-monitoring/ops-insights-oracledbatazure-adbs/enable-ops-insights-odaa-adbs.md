@@ -1,4 +1,4 @@
-# Enabling Ops Insights for Oracle Database@Azure Autonomous Database
+# Enable Ops Insights for Oracle Database@Azure Autonomous Database
 
 ## Introduction
 

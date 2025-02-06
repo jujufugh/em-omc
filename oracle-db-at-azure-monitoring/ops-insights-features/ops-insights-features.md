@@ -1,4 +1,4 @@
-# Exploring Oracle Cloud Infrastructure Ops Insights for Oracle Database@Azure
+# Explore Oracle Cloud Infrastructure Ops Insights for Oracle Database@Azure
 
 ## Introduction
 

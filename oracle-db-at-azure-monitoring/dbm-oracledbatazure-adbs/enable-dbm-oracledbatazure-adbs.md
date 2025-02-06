@@ -1,4 +1,4 @@
-#  Setting up Database Management for Oracle Database@Azure Autonomous Databases
+#  Set up Database Management for Oracle Database@Azure Autonomous Databases
 
 ## Introduction
 
