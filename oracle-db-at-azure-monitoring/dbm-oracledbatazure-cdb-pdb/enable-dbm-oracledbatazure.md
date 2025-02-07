@@ -189,12 +189,14 @@ Provide the credentials for the database connection
 ### Check Oracle Database@Azure Monioring metrics in OCI Console
 - Navigate to the **Oracle Database@Azure Exadata VM Cluster Details** page
 - Click the **Resources menu** on the left
-- Click the **Metrics** link, you can see the metrics for the Exadata VM Cluster metrics under **oci_database_cluster** metric namespace.
+- Click the **Metrics** link, you can see the metrics for the Exadata VM Cluster metrics under **oci\_database\_cluster** metric namespace.
+
 
      ![Exadata VM Cluster Metrics](./images/odaa-exadata-vm-cluster-metrics.png "Exadata VM Cluster Metrics")
 
 - Navigate to the **Databases** Resources link, click the database you want to monitor the metrics
-- Click the **Metrics** link, you can see the metrics for the database metrics under **oci_database_instance** metric namespace.
+- Click the **Metrics** link, you can see the metrics for the database metrics under **oci\_database\_instance** metric namespace.
+
 
      ![Database Metrics](./images/odaa-database-metrics.png "Database Metrics")
 
@@ -223,7 +225,8 @@ Provide the credentials for the database connection
 
      ![Azure Monitor Exadata VM Cluster Metrics](./images/odaa-azure-exadata-vm-cluster-metrics-3.png "Azure Monitor Exadata VM Cluster Metrics")
 
-*Note*: CDB and PDB level metrics from metrics namespace **oracle_oci_database** are only available in Azure Monitor when **OCI Database Management Service** is enabled for Oracle Database@Azure.
+*Note*: CDB and PDB level metrics from metrics namespace **oracle\_oci\_database** are only available in Azure Monitor when **OCI Database Management Service** is enabled for Oracle Database@Azure.
+
 
 ## Conclusion
 
@@ -233,4 +236,4 @@ In this lab, you learned the steps to enable **OCI Database Management Service**
 
 - **Author** - Royce Fu, Master Principal Cloud Architect, North America Cloud Infrastructure Engineering
 - **Contributors** - Royce Fu, Derik Harlow, Murtaza Husain, Sriram Vrinda
-- **Last Updated By/Date** - Royce Fu, January 2025
+- **Last Updated By/Date** - Royce Fu, February 2025
